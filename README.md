@@ -2,7 +2,7 @@
 # phantom-html-to-pdf
 [![NPM Version](http://img.shields.io/npm/v/phantom-html-to-pdf.svg?style=flat-square)](https://npmjs.com/package/phantom-html-to-pdf)
 [![License](http://img.shields.io/npm/l/phantom-html-to-pdf.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.org/pofider/phantom-html-to-pdf.png?branch=master)](https://travis-ci.org/pofider/phantom-html-to-pdf) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/pofider--phantom-html-to-pdf.svg)](https://www.staging.guardrails.io)
+[![Build Status](https://travis-ci.org/pofider/phantom-html-to-pdf.png?branch=master)](https://travis-ci.org/pofider/phantom-html-to-pdf) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/pofider--phantom-html-to-pdf.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/pofider--phantom-html-to-pdf.svg)](https://www.guardrails.io)
 
 **The phantomjs development is on hold and as is this project. I am still trying to accept PRs but that is all for now. I recommend to evaluate other methods for html to pdf conversion. We have switched from phantomjs to headless chrome in [jsreport](https://jsreport.net) and it works great.**
 
